@@ -1,2 +1,2 @@
-*** Vanila js example for simple site
+Vanila js example for simple site
 
